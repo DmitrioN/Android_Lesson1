@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="TextView1">43sp</dimen>
+    <dimen name="button">25sp</dimen>
+    <dimen name="switch1">25sp</dimen>
+    <dimen name="toggleButton">25sp</dimen>
+    <dimen name="checkBox">25sp</dimen>
+</resources>

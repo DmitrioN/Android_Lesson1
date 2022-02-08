@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Android_Lesson1</string>
+    <string name="button">Кнопка</string>
+    <string name="TextView1">Hello World!</string>
+    <string name="checkBox">CheckBox</string>
+    <string name="switch1">Switch!</string>
+    <string name="toggleButton">ToggleButton</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="textView">Обычный текст</string>
+    <string name="editTextPhone">Номер телефона</string>
+    <string name="editTextTextEmailAddress">Почтовый ящик</string>
+    <string name="editTextTextPassword">Пароль</string>
+    <string name="editTextTime">Время</string>
+    <string name="editTextDate">Дата</string>
+    <string name="editTextNumber">Цифры</string>
+
+
+</resources>
